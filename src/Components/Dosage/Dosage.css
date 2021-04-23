@@ -1,0 +1,13 @@
+.Dosage{
+    width : 30%;
+    background: #ccc;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 2px 4px 10px rgba(0,0,0,0.9);
+    margin: 60px auto;
+}
+.Input{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
